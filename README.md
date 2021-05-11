@@ -1,3 +1,3 @@
 # tvtv
 
-https://haoyu592.github.io/tvtv/iptv.m3u
+https://github.com/haoyu592/tvtv/releases/download/tv/iptv.m3u
